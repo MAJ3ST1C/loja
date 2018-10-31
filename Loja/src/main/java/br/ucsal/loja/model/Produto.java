@@ -9,7 +9,9 @@ public class Produto {
 	private String email;
 	private String description;
 	
-	
+	public Produto(){
+		
+	}
 	
 	public Produto(Long id, String name) {
 		super();
